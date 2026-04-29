@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This website is under construction - please check back again soon"
+# title: "This website is under construction - please check back again soon"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,3 @@ I am an LSE Fellow in Political Science in the Department of Government at the L
 I hold a PhD in Political Science, an MRes in Political Science, and an MSc in Comparative Politics from the LSE and a BA in Journalism from the Danish School of Media and Journalism. Before becoming an academic, I worked as a foreign correspondent in London (for the Danish business daily Dagbladet Børsen) and in Bangkok.
 
 
-
-# Headline
-# ======
-# Text 
