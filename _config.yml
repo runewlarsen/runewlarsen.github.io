@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Rune Wriedt Larsen"
   pronouns         : # example: "she/her"  
-  bio              : "LSE Fellow in Political Science in the Department of Government at the London School of Economics and Political Science (LSE)"
+  bio              : "Political scientist"
   location         : # "Earth"
-  employer         : # "London School of Economics"
-  uri              : # URL
+  employer         :  "London School of Economics and Political Science (LSE)"
+  uri              : https://www.lse.ac.uk/people/rune-wriedt-larsen
   email            : # "none@example.org" 
 
   # Academic websites
