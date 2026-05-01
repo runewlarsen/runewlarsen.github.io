@@ -13,7 +13,7 @@ title                    : "Rune Wriedt Larsen"
 title_separator          : "-"
 name                     : &name "Rune Wriedt Larsen"
 description              : &description "Rune Wriedt Larsen, political scientist working on civil war onset and qualitative methods"   # Description
-url                      : https://runewlarsen.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://runewlarsen.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "runewlarsen/runewlarsen.github.io"
